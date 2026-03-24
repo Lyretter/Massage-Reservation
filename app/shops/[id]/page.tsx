@@ -112,15 +112,9 @@ export default function DetailPage({
       {/* Masseuses */}
       <div className="max-w-6xl mx-auto px-6 md:px-10 py-12">
         <div className="text-amber-500 text-xs tracking-[0.15em] uppercase mb-1">
-<<<<<<< HEAD
           ✦ Our teams
         </div>
         <h2 className="font-serif text-3xl font-medium mb-6">Our masseuses</h2>
-=======
-          ✦ ทีมหมอนวด
-        </div>
-        <h2 className="font-serif text-3xl font-medium mb-6">หมอนวดของเรา</h2>
->>>>>>> 76ef43b63465eda967489284a8ceb8e9b385f415
 
         {masseuses.length === 0 ? (
           <div className="text-center py-12 text-stone-400 text-sm border border-dashed border-stone-200 rounded-2xl">
