@@ -8,7 +8,6 @@ import { Spinner } from '@/components/ui'
 import BookingModal from '@/components/BookingModal'
 import type { Shop } from '@/types'
 
-
 function ShopCard({
   shop,
   index,
